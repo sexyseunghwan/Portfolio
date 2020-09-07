@@ -57,7 +57,7 @@ Git Pages와 HTML5, CSS3, JavaScript를 이용한 싱글페이지 포트폴리�
         <th>Project</th>
     </tr>
     <tr>        
-        <td><img width="266" height="160" src="images/pfhome.png"></td>
+        <td><img width="266" height="160" src="/images/pfhome.png"></td>
         <td><img width="266" height="160" src="images/pfabout.png"></td>
         <td><img width="266" height="160" src="images/pfStrength.png"></td>
     </tr>
